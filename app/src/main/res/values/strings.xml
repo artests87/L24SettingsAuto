@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">L24SettingsAuto</string>
     <string name="action_settings">Settings</string>
+    <string name="wifi_title">Wi-Fi</string>
+    <string name="wifi_summary">Setting for Wi-Fi</string>
+    <string name="hint_title">Hints</string>
+    <string name="hint_summary">Hints settings</string>
+    <string name="action_settings_own">WI-FI And Hint</string>
+    <string name="pref_size">Preffered size</string>
+    <string name="size_font">Size font</string>
+    <string name="size_font_summary">Establish a new size</string>
+    <string name="insertSizeDialog">Insert size font (from 10 to 32)</string>
+    <string name="pref_style">Preffered style text</string>
+    <string name="pref_style_summary">Insert preffered style text</string>
+    <string name="chooseTextDialogTitle">Choose style for text</string>
+    <string name="rington_setting">rington_setting</string>
+    <string name="rington_setting_title">Rington</string>
+    <string name="rington_setting_summary">Change rington</string>
+    <string name="textCategorySetting">Text Settings</string>
+    <string name="pref_hint">Prefence hit</string>
+    <string name="pref_hint_summary">Go to choose prefence screen</string>
 </resources>
